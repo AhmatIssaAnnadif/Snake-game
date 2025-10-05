@@ -12,6 +12,7 @@ window.onload = function () {
   var score;
   var timeout;
 
+  // Tout est JS
   init();
 
   function init() {
